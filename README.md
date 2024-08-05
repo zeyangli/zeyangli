@@ -1,7 +1,3 @@
-### Hi there, I'm ZeyangLi👋
-
-- 🔭 I’m currently working on an DevOps technology company in Beijing China.
-- 🌱 I’m currently learning DevOps、CloudNative technology.
 
 
 ### Languages & Tools 🛠
